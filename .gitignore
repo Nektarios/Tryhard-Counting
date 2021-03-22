@@ -1,2 +1,2 @@
-./src/secret.json
+./src/settings/secret
 node_modules
